@@ -1,6 +1,9 @@
 var twLSN = [
 'https://ikrimahherbal.blogspot.com/',
-
+'unaizstore.blogspot.com',
+'unaizstore.com',
+'herbamaret.com',
+'optimismart.net',
 ];
 
-var redirectUrl = 'https://www.pesan.link/toko-online';
+var redirectUrl = 'https://pesan.link/aktivasitokowhatsapp';
